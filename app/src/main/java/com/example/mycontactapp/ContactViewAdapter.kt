@@ -50,4 +50,14 @@ class ContactViewAdapter: RecyclerView.Adapter<ContactViewAdapter.ItemContactVie
             }
         }
     }
+
+    fun setItems(newData: List<Contact>){
+        // hapus data sebelumnya
+        contacts.clear()
+        // tambahkan data baru
+        contacts.addAll(newData)
+
+        //notify ke ui agar ada perubahan data
+        notifyDataSetChanged()
+    }
 }

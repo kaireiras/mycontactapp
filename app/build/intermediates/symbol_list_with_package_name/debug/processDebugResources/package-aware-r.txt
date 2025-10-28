@@ -3839,6 +3839,8 @@ id east
 id edge
 id edit_query
 id edit_text_id
+id edt_name
+id edt_phone
 id elastic
 id embed
 id end
@@ -4320,6 +4322,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout form_contact
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout item_contact

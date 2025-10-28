@@ -16,6 +16,10 @@
         "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/drawable/ic_launcher_foreground.xml"
     },
     {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/drawable_outline_add_24.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/drawable/outline_add_24.xml"
+    },
+    {
         "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/xml_backup_rules.xml.flat",
         "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/xml/backup_rules.xml"
     },
@@ -40,8 +44,8 @@
         "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.mycontactapp-debug-39:/drawable_outline_add_24.xml.flat",
-        "source": "com.example.mycontactapp-main-41:/drawable/outline_add_24.xml"
+        "merged": "com.example.mycontactapp-debug-39:/layout_form_contact.xml.flat",
+        "source": "com.example.mycontactapp-main-41:/layout/form_contact.xml"
     },
     {
         "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/drawable_ic_launcher_background.xml.flat",
@@ -58,10 +62,6 @@
     {
         "merged": "com.example.mycontactapp-debug-39:/layout_activity_main.xml.flat",
         "source": "com.example.mycontactapp-main-41:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.example.mycontactapp-debug-39:/layout_item_contact.xml.flat",
-        "source": "com.example.mycontactapp-main-41:/layout/item_contact.xml"
     },
     {
         "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",

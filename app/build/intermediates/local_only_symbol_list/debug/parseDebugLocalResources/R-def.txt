@@ -10,12 +10,15 @@ drawable outline_edit_square_24
 id btn_add
 id btn_delete
 id btn_edit
+id edt_name
+id edt_phone
 id groupactions
 id main
 id rv_contact
 id txt_name
 id txt_phone
 layout activity_main
+layout form_contact
 layout item_contact
 mipmap ic_launcher
 mipmap ic_launcher_round

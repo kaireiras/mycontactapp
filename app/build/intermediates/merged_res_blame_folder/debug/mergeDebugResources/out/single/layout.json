@@ -1,7 +1,7 @@
 [
     {
-        "merged": "com.example.mycontactapp-mergeDebugResources-38:/layout/item_contact.xml",
-        "source": "com.example.mycontactapp-main-41:/layout/item_contact.xml"
+        "merged": "com.example.mycontactapp-mergeDebugResources-38:/layout/form_contact.xml",
+        "source": "com.example.mycontactapp-main-41:/layout/form_contact.xml"
     },
     {
         "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-mergeDebugResources-38:/layout/item_contact.xml",
