@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
 
         //assign contact adp
-        contactViewAdapter = ContactViewAdapter(onEdit = { contact -> showEditDialog()},
+        contactViewAdapter = ContactViewAdapter(onEdit = { contact -> showEditDialog(contact)},
             onDelete = { contact -> showDeleteDialog(contact)})
 
         setContentView(binding.root)
