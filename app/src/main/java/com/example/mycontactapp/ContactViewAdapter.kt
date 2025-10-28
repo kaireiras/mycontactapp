@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.mycontactapp.data.Contact
 import com.example.mycontactapp.databinding.ItemContactBinding
 
-class ContactViewAdapter: RecyclerView.Adapter<ContactViewAdapter.ItemContactViewHolder>() {
+class ContactViewAdapter(private val onEdit: (Contact) -> Unit, private val onDelete: (Contact) -> Unit): RecyclerView.Adapter<ContactViewAdapter.ItemContactViewHolder>() {
 
     // variabel yang menyimpan data list contact
     private val contacts = mutableListOf<Contact>()
@@ -47,6 +47,9 @@ class ContactViewAdapter: RecyclerView.Adapter<ContactViewAdapter.ItemContactVie
             with(binding){
                 txtName.setText(contact.name)
                 txtPhone.setText(contact.phone)
+
+                btnEdit.setOnClickListener { onEdit(contact) }
+                btnDelete.setOnClickListener { onDelete(contact) }
             }
         }
     }

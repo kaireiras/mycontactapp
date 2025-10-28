@@ -37,7 +37,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
 
         //assign contact adp
-        contactViewAdapter = ContactViewAdapter()
+        contactViewAdapter = ContactViewAdapter(onEdit = { contact -> showEditDialog()},
+            onDelete = { contact -> showDeleteDialog(contact)})
 
         setContentView(binding.root)
 
@@ -106,5 +107,13 @@ class MainActivity : AppCompatActivity() {
 
         val dialog = builder.create()
         dialog.show()
+    }
+
+    private fun showEditDialog(contact: Contact) {
+        return
+    }
+
+    private fun showDeleteDialog(contact: Contact) {
+        return
     }
 }
