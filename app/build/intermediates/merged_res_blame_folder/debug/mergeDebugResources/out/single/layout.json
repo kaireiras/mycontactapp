@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.mycontactapp-mergeDebugResources-38:/layout/item_contact.xml",
+        "source": "com.example.mycontactapp-main-41:/layout/item_contact.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-mergeDebugResources-38:/layout/item_contact.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.mycontactapp-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.mycontactapp-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/layout_item_contact.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/layout/item_contact.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/xml_backup_rules.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/drawable_outline_delete_24.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/drawable/outline_delete_24.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mycontactapp-debug-39:/drawable_outline_add_24.xml.flat",
+        "source": "com.example.mycontactapp-main-41:/drawable/outline_add_24.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mycontactapp-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.example.mycontactapp-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mycontactapp-debug-39:/layout_item_contact.xml.flat",
+        "source": "com.example.mycontactapp-main-41:/layout/item_contact.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/drawable_outline_edit_square_24.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/drawable/outline_edit_square_24.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-debug-39:/layout_activity_main.xml.flat",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycontactapp-main-41:/layout/activity_main.xml"
+    }
+]

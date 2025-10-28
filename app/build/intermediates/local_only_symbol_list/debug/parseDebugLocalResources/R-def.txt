@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable outline_add_24
+drawable outline_delete_24
+drawable outline_edit_square_24
+id btn_add
+id btn_delete
+id btn_edit
+id groupactions
+id main
+id rv_contact
+id txt_name
+id txt_phone
+layout activity_main
+layout item_contact
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyContactApp
+style Theme.MyContactApp
+xml backup_rules
+xml data_extraction_rules
